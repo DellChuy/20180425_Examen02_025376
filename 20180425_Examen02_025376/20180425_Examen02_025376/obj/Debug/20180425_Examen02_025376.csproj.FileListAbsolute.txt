@@ -5,3 +5,6 @@ C:\Users\jcampos\Desktop\CETYS\Semestre VI\Programacion Avanzada Orientada a Obj
 C:\Users\jcampos\Desktop\CETYS\Semestre VI\Programacion Avanzada Orientada a Objetos\20180425_Examen02_025376\20180425_Examen02_025376\obj\Debug\20180425_Examen02_025376.csproj.CoreCompileInputs.cache
 C:\Users\jcampos\Desktop\CETYS\Semestre VI\Programacion Avanzada Orientada a Objetos\20180425_Examen02_025376\20180425_Examen02_025376\obj\Debug\20180425_Examen02_025376.exe
 C:\Users\jcampos\Desktop\CETYS\Semestre VI\Programacion Avanzada Orientada a Objetos\20180425_Examen02_025376\20180425_Examen02_025376\obj\Debug\20180425_Examen02_025376.pdb
+C:\Users\jcampos\Desktop\CETYS\Semestre VI\Programacion Avanzada Orientada a Objetos\20180425_Examen02_025376\20180425_Examen02_025376-master\20180425_Examen02_025376\20180425_Examen02_025376\obj\Debug\20180425_Examen02_025376.csproj.CoreCompileInputs.cache
+C:\Users\jcampos\Desktop\CETYS\Semestre VI\Programacion Avanzada Orientada a Objetos\20180425_Examen02_025376\20180425_Examen02_025376-master\20180425_Examen02_025376\20180425_Examen02_025376\obj\Debug\20180425_Examen02_025376.exe
+C:\Users\jcampos\Desktop\CETYS\Semestre VI\Programacion Avanzada Orientada a Objetos\20180425_Examen02_025376\20180425_Examen02_025376-master\20180425_Examen02_025376\20180425_Examen02_025376\obj\Debug\20180425_Examen02_025376.pdb

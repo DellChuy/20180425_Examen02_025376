@@ -3,11 +3,13 @@ using System.Collections.Generic;
 using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
+using System.Threading;
 
 namespace _20180425_Examen02_025376
 {
     class Robot1 : Robots
     {
+        public bool ocupado { get; set; }
         SinTerminar miSinTerminar;
         Terminadas miTerminadas;
         public Tarea miTarea;
@@ -21,14 +23,17 @@ namespace _20180425_Examen02_025376
             this.nombre = nombre;
             this.miSinTerminar = miSinTerminar;
             this.miTerminadas = miTerminadas;
+            ocupado = false;
         }
        public void realizar_tarea(){
+            Thread.Sleep(miTarea.duracion * 1000);
             miTarea.realizarTarea();
             fecha = DateTime.Now.ToString();
             miTarea.realizadaPor = nombre;
             miTarea.fecha = fecha;
             miSinTerminar.eliminarTarea(miTarea);
             miTerminadas.agregarTarea(miTarea);
+            ocupado = false;
         }
 
         public void obtener_tarea()

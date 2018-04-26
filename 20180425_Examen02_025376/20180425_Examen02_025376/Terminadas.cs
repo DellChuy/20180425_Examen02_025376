@@ -20,6 +20,7 @@ namespace _20180425_Examen02_025376
 
         public void agregarTarea(Tarea tarea)
         {
+            
             tareasTerminadas.Add(tarea);
 
         }

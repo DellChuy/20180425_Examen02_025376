@@ -10,13 +10,16 @@ namespace _20180425_Examen02_025376
     {
         
         public List<Tarea> tareasNoTerminadas = new List<Tarea>();
+        Tarea tarea2;
         public void agregarTarea(Tarea tarea)
         {
             tareasNoTerminadas.Add(tarea);
         }
         public Tarea delegarTarea()
         {
-            return tareasNoTerminadas[0];
+            tarea2 = tareasNoTerminadas[0];
+            tareasNoTerminadas.Remove(tarea2);
+            return tarea2;
         }
         public void eliminarTarea(Tarea tareaE)
         {
