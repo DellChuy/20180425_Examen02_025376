@@ -1,2 +1,3 @@
 En el diagrama se intenta manejar un clase colas donde se manejan tus listas, tratandode delgar tareas y agregar tareas, elimnar tareas, donde cada tareae sabe como 
 se realiza y esta es llamada por el robot designado y solo este manda a llamar a este metodo ejecutar. 
+Se intenta solo ejecutar una accion.
